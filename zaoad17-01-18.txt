@@ -1,0 +1,25 @@
+/////////////////////////////////////////////////////////////////////////
+https://courses.cs.washington.edu/courses/cse403/16wi/proposals/doc/sgorti3-atat94-doc.pdf
+Social Media Organized:
+this app helps users to find tag based information from social media. using tag ,image or video type, contents are showed to the users.
+/////////////////////////////////////////////////////////////////////////
+http://freshmeat.sourceforge.net/tags/web-application
+http://freshmeat.sourceforge.net/projects/mediabird
+Mediabird:
+Mediabird allows students to document and review their study effort using a collaborative notepad. A virtual text marker allows the students to highlight their notes and ask questions about the highlighted parts. The sharing feature allows study groups to share and discuss their notes as well as questions they have created. By-and-by, the students collect answers to the questions. Pairs of questions and answers are collected in a card box that allows for memorizing the important facts later on .
+[it's a good idea]
+///////////////////////////////////////////////////////////////////////////////
+https://courses.cs.washington.edu/courses/cse403/15sp/proposals/dianay/jpl337-dianay-slides.pdf
+Vision and Features :
+Group    everything    in    one    place    
+1.course    information
+2.professor    ratings
+3.results.
+//////////////////////////////////////////////////////////////////////////////////////////
+internet newpaper:
+clustered the bangla newspaper's news such a way in which a perticular incident of all newspaper is shown to user. so that user can easily get a good idea about the incident . it's like news.google.com . 
+///////////////////////////////////////////////////////////////////////////////////////////
+online pharmacy:
+a pharmacy in which people can order their medicine and can inquery about medicine and its usefulness and sideeffect.
+also a regular patient can advised by the doctor with a monthy payment any problem. or he can open medicine insurance that's assure him  all kinds of medical support . it's a very good business policy .    
+        
